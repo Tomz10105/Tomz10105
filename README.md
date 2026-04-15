@@ -3,7 +3,7 @@
 Feel free to communicate with me in ,English or Tagalog!
 
 <div class="flex">
-  <a href="mailto:popenda05@gmail.com"><img width="40px" src="./assets/mail.png" alt="mail"/></a>&nbsp;
+  <a href="mailto:tombz0514@gmail.com"><img width="40px" src="./assets/mail.png" alt="mail"/></a>&nbsp;
   <a href="ziieee"><img width="40px" src="./assets/discord.png" alt="discord"/></a>&nbsp;
   <a href="https://twitter.com/tomnaxie"><img width="40px" src="./assets/twitter.png" alt="twitter"/></a>&nbsp;
   <a href="https://t.me/tombz05"><img width="40px" src="./assets/telegram.png" alt="telegram"/></a>
